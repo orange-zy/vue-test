@@ -6,3 +6,4 @@
 ## 配置项props
 ## mixin混入
 ## 插件
+## scopedyan
